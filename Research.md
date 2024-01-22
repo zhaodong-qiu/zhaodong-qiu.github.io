@@ -1,11 +1,9 @@
 My current research is dedicated to investigating the intricate interaction between individual agency and the systems in which employees are embedded in. Specifically, my work encompasses two primary research streams. 
 
-*The Dynamics of Workplace Proactivity*
-
+<u>*The Dynamics of Workplace Proactivity*</u>
 In this stream, I study the individual’s proactivity in the workplace. For example, I explore how changes in contextual factors trigger employees’ proactive behaviors. I am also interested in how these employees' coworkers react to their proactivity.
 
-*Individuals’ Workday Design*
-
+(u)*Individuals’ Workday Design*</u>
 In this stream, I focus on how employees' self-arrangement of tasks within the workday influences their energy and feelings, which in turn affects their work outcomes.
 
 
