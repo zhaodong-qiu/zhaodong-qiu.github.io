@@ -5,8 +5,9 @@ In this stream, I study the individual’s proactivity in the workplace. For exa
      
 *Individuals’ Workday Design*   
 In this stream, I focus on how employees' self-arrangement of tasks within the workday influences their energy and feelings, which in turn affects their work outcomes.
-    
-    
+           
+             
+           
 **Academic Journal Publications**    
 Zhang, C., Spreitzer, G. M., & **Qiu, Z. (A.).** (2023). Meetings and individual work during the workday: Examining their interdependent impact on knowledge workers’ energy. *Journal of Applied Psychology*, 108(10), 1640–1661. https://doi.org/10.1037/apl0001091
     
