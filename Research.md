@@ -12,4 +12,4 @@ Zhang, C., Spreitzer, G. M., & **Qiu, Z. (A.).** (2023). Meetings and individual
 
 
 **Practice-oriented Publications**
-Zhang, C., Spreitzer, G. M., & **Qiu, Z. (A.).** (2023). Arrange your meeting schedule to boost your energy. *Harvard Business Review*. August 29, 2023. [Link](https://hbr.org/2023/08/arrange-your-meeting-schedule-to-boost-your-energy)https://hbr.org/2023/08/arrange-your-meeting-schedule-to-boost-your-energy
+Zhang, C., Spreitzer, G. M., & **Qiu, Z. (A.).** (2023). Arrange your meeting schedule to boost your energy. *Harvard Business Review*. August 29, 2023. [Link](https://hbr.org/2023/08/arrange-your-meeting-schedule-to-boost-your-energy)
