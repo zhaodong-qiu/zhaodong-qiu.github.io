@@ -1,4 +1,4 @@
-My current research is dedicated to investigating the intricate interaction between individual agency and the systems in which employees are embedded in. Specifically, my work encompasses two primary research streams. 
+My current research is dedicated to investigating the intricate interaction between individual agency and the systems in which individuals are embedded. Specifically, my work encompasses two primary research streams. 
      
 *The Dynamics of Workplace Proactivity*   
 In this stream, I study the individual’s proactivity in the workplace. For example, I explore how changes in contextual factors trigger employees’ proactive behaviors. I am also interested in how these employees' coworkers react to their proactivity.
