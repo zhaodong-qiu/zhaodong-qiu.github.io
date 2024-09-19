@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Zhaodong (Alan) Qiu is a doctoral candidate in Leadership and Organization Management at the School of Economics and Management at Tsinghua University.
+Zhaodong (Alan) Qiu is an Assistant Professor in the People and Organisations (P&O) department at NEOMA Business School. He earned his Ph.D. in Management from Tsinghua University. During his doctoral studies, he served as a visiting scholar at the Stephen M. Ross School of Business, University of Michigan. 
 
-Zhaodong's research investigates the intricate interaction between individual agency and the systems in which individuals are embedded. Specifically, he focuses on the dynamics of proactivity and workday design issues. He navigates his research questions through various quantitative methods like experience sampling method, field experiment, and longitudinal survey. His research has been published in leading journals such as the *Journal of Applied Psychology*.
+Zhaodong's research investigates the complex interplay between individual agency and organizational systems within which individuals are embedded. Specifically, he focuses on the dynamics of workplace proactivity and workday design issues. He employs various quantitative methods in his research, including the experience sampling method, field experiments, and longitudinal surveys. His work has been published in journals such as the *Journal of Applied Psychology* and featured in the *Harvard Business Review*.
