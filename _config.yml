@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhaodong (Alan) QIU / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhaodong (Alan) QIU"
-description              : &description "doctoral candidate from Tsinghua University"
+description              : &description "Assistant Professor at NEOMA Business School"
 url                      : https://zhaodong-qiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhaodong-qiu/zhaodong-qiu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhaodong (Alan) QIU"
   avatar           : "profile.png"
-  bio              : "Doctoral Candidate in Leadership and Organization Management at the School of Economics and Management at Tsinghua University"
+  bio              : "Assistant Professor at Human and Organisations Department, NEOMA Business School"
   location         : "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bmBVfPEAAAAJ&hl=en&authuser=1"
-  email            : "qiuzhd.18@sem.tsinghua.edu.cn"
+  email            : "zhaodong.qiu@neoma-bs.fr"
   researchgate     :
   uri              :
   bitbucket        :
