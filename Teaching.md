@@ -1,5 +1,8 @@
- 
-# Teaching
+---
+title: "Teaching experience"
+collection: Teaching
+--- 
+
 ## NEOMA Business School 
  - *Human Resources and Organisation* (MiM)
  - *Leading Change* (MiM)
