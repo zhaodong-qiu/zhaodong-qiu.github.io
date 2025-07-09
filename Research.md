@@ -10,6 +10,7 @@ In this stream, I focus on how employees' self-arrangement of tasks within the w
            
 **Academic Journal Publications**    
 Zhang, C., **Qiu, Z. (A.)**, Zhao, H., Yang, M., Chen, W, & Ma, Y. (2025). Harnessing the Potential of Workday Design: The Sequencing of Task Difficulty and Its Implications for Workday Well-Being and Performance. *Personnel Psychology*. Advance online publication. https://doi.org/10.1111/peps.12685
+
 Zhang, C., Spreitzer, G. M., & **Qiu, Z. (A.).** (2023). Meetings and individual work during the workday: Examining their interdependent impact on knowledge workers’ energy. *Journal of Applied Psychology*, 108(10), 1640–1661. https://doi.org/10.1037/apl0001091
     
 **Practice-oriented Publications**    
